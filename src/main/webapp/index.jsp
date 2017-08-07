@@ -9,7 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Guest</h1>
+	<h1>Guest[new push first]</h1>
 	CommonStr:<%=new CommonUtils().getCommonStr() %><br/>
 	PojoStr:<%=new PojoClass().getPojoStr() %>
 
